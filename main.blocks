@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><comment id="v8Go,D%36W{9]3e;`)r[" x="364" y="-2" h="81" w="454">Cuba sendiri: Paparkan emoji kenyitan mata pada papan micro:bit anda</comment><block type="pxt-on-start" id="j#Eith,(ss8Hdv9B-R~W" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="EOo[YYR/Ry@^~JJu4BU1"><value name="text"><shadow type="text" id="}-HXnFV}}NPI`lV)[78r"><field name="TEXT">Hello!</field></shadow></value></block></statement></block><block type="device_forever" id="x~^E,Y^rC;lz(_b,.fOC" x="0" y="112"><statement name="HANDLER"><block type="device_show_leds" id="BP)lto!E|fWBV;aG/EmS"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # . 
+        . . . . .
+        `</field></block></statement></block></xml>
